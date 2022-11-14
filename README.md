@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ludo</h1>
-<h3 align="center">I'm passionate about data visualisation and AI. I want to participate in the building of a brighter future for the industry.</h3>
+<h3 align="center">I'm passionate about data visualisation and AI. I want to participate in the building of a tomorrow.</h3>
+
 
 - 🌱  I’m currently learning **High-Performance Java Persistence**
 
