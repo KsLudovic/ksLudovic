@@ -3,7 +3,7 @@
 
 
 
-- 🌱  I’m currently learning **High-Performance Java Persistence** 
+- 🌱  I’m currently learning **Cybersecurity** 
 
 - 📫  How to reach me **ludovic.casseyo@gmail.com**
 
